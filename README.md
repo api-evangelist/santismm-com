@@ -1,4 +1,4 @@
-# santismm-com
+# Santiago Santa María Morales
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-santismm-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://santismm.com/
+Santiago Santa María Morales is a thought leader in applied AI, agents, robotics, and technology for business. The site shares ideas, talks, and analysis on improving organizations and lives through AI, agentic systems, and innovative tech solutions. It provides insights, articles, and resources aimed at professionals and enthusiasts interested in the future of AI-driven automation and robotics.
+
+**Areas:** AI · Robotics · Applied AI · Technology · Thought Leadership
+
+## Santiago Santa María Morales on APIs.io
+
+Everything profiled for Santiago Santa María Morales is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/santismm-com/](https://apis.io/providers/santismm-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [Santiago Santa María Morales Architectures API](https://apis.io/apis/santismm-com/santismm-com-architectures-api/) — End-to-end reference architectures.
+- [Santiago Santa María Morales Discovery API](https://apis.io/apis/santismm-com/santismm-com-discovery-api/) — Manifests that point at everything else.
+- [Santiago Santa María Morales Governance API](https://apis.io/apis/santismm-com/santismm-com-governance-api/) — Regulations, standards and playbooks.
+- [Santiago Santa María Morales Graph API](https://apis.io/apis/santismm-com/santismm-com-graph-api/) — The corpus as nodes and edges.
+- [Santiago Santa María Morales Handbook API](https://apis.io/apis/santismm-com/santismm-com-handbook-api/) — The long-form Harness Engineering Handbook.
+- [Santiago Santa María Morales Homeric Atlas API](https://apis.io/apis/santismm-com/santismm-com-homeric-atlas-api/) — Where the episodes of the Iliad and the Odyssey might have happened. Its own vocabulary: an identification class and a 0–12 rubric rather than…
+- [Santiago Santa María Morales Knowledge API](https://apis.io/apis/santismm-com/santismm-com-knowledge-api/) — Concepts on agentic and enterprise AI.
+- [Santiago Santa María Morales Matrix API](https://apis.io/apis/santismm-com/santismm-com-matrix-api/) — The Agentic Control Matrix.
+- [Santiago Santa María Morales Patterns API](https://apis.io/apis/santismm-com/santismm-com-patterns-api/) — Reusable agentic design patterns.
+- [Santiago Santa María Morales Taxonomy API](https://apis.io/apis/santismm-com/santismm-com-taxonomy-api/) — Comparable taxonomy of real AI agents.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Santiago Santa María Morales Agentic Access](https://apis.io/agentic-access/santismm-com/santismm-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Santiago Santa María Morales API Rules](https://apis.io/rules/santismm-com/santismm-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Santiago Santa María Morales Domain Security](https://apis.io/security/santismm-com/santismm-com-domain-security/)
+- [Santiago Santa María Morales Vulnerability Disclosure](https://apis.io/security/santismm-com/santismm-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://santismm.com/)
+- [Documentation](https://santismm.com/en)
+- [Blog](https://santismm.com/en/library)
+- [Security](https://github.com/santismm/santismm.com/blob/main/SECURITY.md)
+- [Privacy policy](https://santismm.com/en/privacy)
+- [GitHub](https://github.com/santismm)
+
+## API Evangelist rating
+
+**Kin Score 35.8** — thin · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 40.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 8.5 |
+
+**Agent readiness 26.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/santismm-com/](https://apis.io/providers/santismm-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Santiago Santa María Morales: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/santismm-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
